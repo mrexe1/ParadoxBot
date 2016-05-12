@@ -34,7 +34,7 @@ if jdat.reason then
      text = text..'\nClan Points: '.. jdat.clanPoints
      text = text..'\nRequired Trophies: '.. jdat.requiredTrophies
      text = text..'\nMembers: '.. jdat.members
-     text = text..'\n\n@WaderTGTeam'
+     text = text..'\n\n@Soft_TG'
      cmd:close()
   return text
  end
