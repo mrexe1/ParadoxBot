@@ -1,4 +1,4 @@
-# [WaderTG](https://telegram.me/WaderTG)
+# [ParadoxBot](https://telegram.me/Paradox_CJ)
 
 # Features
 
