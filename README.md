@@ -37,7 +37,7 @@ cd bin
 ./luarocks-5.2 install lub
 ./luarocks-5.2 install luaexpat
 cd $HOME
-cd WaderTG
+cd ParadoxBot
 ./launchfix2.sh install
 ./autolaunch.sh
 ```
