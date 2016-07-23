@@ -232,39 +232,20 @@ function create_config( )
 	"supergroup",
 	"whitelist",
 	"msg_checks",
-	"plugins",
-	"badword",
-	"bot-lock",
-	"clash_of_clan",
-	"cleaner",
-	"infull",
-	"instagram",
-	"linkpv",
-	"lock-forward",
-	"photo2sticker",
-	"sticker2photo",
-	"text2photo",
-	"text2sticker",
-	"server",
-	"voice",
-	"wai"
+	"plugins"
     },
     sudo_users = {147237496,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[SOFT TG V1
 An advanced administration bot based on TG-CLI written in Lua
 
-Admins
-@Mohammad_NBG
-@mohammadsdi4799
-@iphonei
-@Amin1779
-@Oo_hamed_ice_fuckeram_oO
+Admin
+@Paradox_CJ
 
-Our channels
-@SoftTG_TEA.
+Our cchannels
+@Paradox_TEAM
 
-thankyou for all admins bot WaderTG
+thankyou for all admins bot Paradox
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -479,10 +460,10 @@ will return group ban list
 
 *Only owner can use res,setowner,promote,demote and log commands
 
-channel:@WaderTGTeam
+channel:@Paradox_TEAM
 ]],
 	help_text_super =[[
-WaderTG SuperGroup Commands :
+Paradox SuperGroup Commands :
 =========================
 #info
 About the SuperGroup info
