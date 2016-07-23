@@ -40,7 +40,7 @@ local function run(msg, matches)
       chat_add_user(chat_id, user_id, ok_cb, false)   
    local group_link = data[tostring(matches[2])]['settings']['set_link']
    local group_name = data[tostring(matches[2])]['settings']['set_name']
-   return "Group Link:\n"..group_link.."\n\n(Group name:"..group_name..")\nCreate by:@WaderTGTeam"
+   return "Group Link:\n"..group_link.."\n\n(Group name:"..group_name..")\nCreate by:@Paradox_TEAM"
    
     elseif matches[1] == 'link' and not data[tostring(matches[2])] then
 
