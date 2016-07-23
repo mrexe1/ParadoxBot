@@ -26,7 +26,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 cd $HOME
 git clone https://github.com/PARADOXTEAM/ParadoxBot.git
-cd WaderTG
+cd ParadoxBot
 chmod +x launchfix2.sh
 chmod +x launch.sh
 chmod +x autolaunch.sh
