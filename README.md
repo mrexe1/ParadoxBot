@@ -226,7 +226,7 @@ Each higher status inherits the privileges of the lower status.
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev make unzip git redis-server autoconf g++ libjansson-dev libpython-dev expat libexpat1-dev
 
 cd $HOME
-git clone https://github.com/groupforspeed/WaderTG.git
+git clone https://github.com/PARADOXTEAM/ParadoxBot.git
 cd WaderTG
 chmod +x launchfix2.sh
 chmod +x launch.sh
@@ -248,6 +248,6 @@ tmux new-session -s script "bash steady.sh -t"
 ```
 # NEW TERMINAL ANTI CRASH
 ```sh
-cd WaderTG
+cd ParadoxBot
 screen ./launch.sh
 ```
